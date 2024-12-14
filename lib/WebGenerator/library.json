@@ -1,0 +1,7 @@
+{
+    "name": "WebGenerator",
+    "version": "0.0.1",
+    "build": {
+        "extraScript": "convert.py"
+    }
+}

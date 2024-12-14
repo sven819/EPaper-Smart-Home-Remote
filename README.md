@@ -1,1 +1,1 @@
-# EPaper-Smart-Home-Remote
+# EPD Smart HOME

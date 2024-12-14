@@ -1,0 +1,18 @@
+Quelle https://github.com/home-assistant/home-assistant-js-websocket/blob/master/lib/entities.ts
+
+interface EntityDiff {
+  /** additions */
+  "+"?: Partial<EntityState>;
+  /** subtractions */
+  "-"?: EntityStateRemove;
+}
+
+
+interface StatesUpdates {
+  /** add */
+  a?: Record<string, EntityState>;
+  /** remove */
+  r?: string[]; // remove
+  /** change */
+  c: Record<string, EntityDiff>;
+}
