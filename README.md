@@ -2,6 +2,9 @@
 
 A remote control tailored for Home Assistant, designed for energy-efficient ePaper displays. Built on ESP32, this project allows seamless configuration via a web interface and features automatic periodic updates for the displayed information.
 
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/73b4e8f3-fb87-42a1-8c3c-8f63c050cfd3" />
+
+
 ## Features
 
 - **Home Assistant Integration**: Control your smart home devices effortlessly.  
